@@ -1,0 +1,10 @@
+DateTime~=5.4
+pip~=24.0
+argparse~=1.4.0
+configparser~=5.0.2
+wheel~=0.41.2
+cryptography~=37.0.2
+lxml~=4.9.2
+ipaddress~=1.0.23
+setuptools~=68.1.2
+networkx~=3.2.1
